@@ -1,0 +1,106 @@
+/* Our CSS file. */
+
+
+.container, .content {
+width: 100%;
+}
+.header{
+    height: 100px;
+    border-style: solid ;
+    border-width: 1px;
+}
+.logo {
+    background-color: darkred ;
+    float:left;
+    height: 50px;
+    width: 100px;
+    border-style: solid ;
+    border-width: 1px;
+    margin-left: 10px;
+    margin-top: 30px;
+
+
+
+}
+
+.search-bar{
+    float: right;
+    margin-right: 2px;
+    margin-top: 30px;
+
+}
+a{
+    text-decoration: none;
+    padding: 30px;
+    align-self: center;
+    text-align: justify;
+
+}
+.navigator-br{
+    height: 50px;
+    border-style: solid ;
+    border-width: 1px;
+    margin-top: 10px;
+    text-align: center;
+}
+.main-body{
+    height: 500px;
+}
+.left-side-bar{
+    float: left;
+    height: 500px;
+    width: 20%;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 10px;
+}
+.right-side-bar{
+    height: 500px;
+    float: right;
+    width: 20%;
+    border-style: solid;
+    border-width: 1px;
+    margin-top: 10px;
+}
+#main-containt-section{
+    text-align: center;
+
+    height: 500px;
+    width: 57%;
+    float:left;
+    margin-top: 10px;
+    margin-left: 11px;
+    margin-right: 11px;
+
+    border-style: solid;
+    border-width: 1px;
+
+
+}
+.img{
+    float: left;
+    padding: 5px;
+    height: 180px;
+    width: 175px;
+
+}
+#right-side-bar-menu{
+    text-align: left;
+}
+li{
+    margin: 30px;
+    text-align: left;
+
+}
+ul{
+
+    list-style: none;
+}
+#page-footer{
+    text-align: center;
+    height: 100px;
+    border-style: solid ;
+    border-width: 1px;
+    margin-top: 20px;
+
+}
